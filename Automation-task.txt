@@ -1,0 +1,26 @@
+Use USA IP to open these link
+https://moneymutual.com/
+
+https://23.anyunclaimedassets.com/index.php?pid=16&utm_source=16&utm_campaign=16&chk=1&cid=17899abc64a9440d8705a6ccdac7bbfe&oid=4633
+
+https://money.com/lp/car-insurance/lp/pub-funnel-v7?f_ui=1&h=s2m&ma_colorcode=ffrainbow&minor_v=o2&pcuid=jc2122ac2830&ph=0&qs_colorcode=ffrainbow&r_ui=1&resp=2&step=vehicles_count&ap_referrer=https%3A%2F%2Fmoney.com%2F&ca_referer=https%3A%2F%2Fmoney.com%2F&jump_from_embed=true&wafid=&zip=78402
+
+these are example webform URL, 
+where we want to automate repetitive, rule-based digital tasks—such as data entry, like (Robotic Process Automation).  Data source would be Google sheet excel or fetch from computer excel data.
+Every form would be submit on different Paid Proxy (Paid plan) and on Different fingerprint and user agent.
+All this done on cloud server or on personal computer and , we can access and start task via telegram or via computer login.
+All task would be process like browser less automation.
+Error (any Email, phone mis match) would be solve Via AI integration on task.
+
+No of  forms daily 3k to 15K  depends on needs. 
+Daily 24*7 or when I start automation process manfully.
+For now n captcha or login requirement , In future might me there.
+after submit, there are some survey also, make full demo automation.
+ use USA Proxy to test.
+
+combine UA rotation with proxy rotation for better results
+Randomize window size too 
+Randomize Device rotation
+Random OS Rotation
+Random Proxy rotation
+Random Browser Rotation
