@@ -892,7 +892,7 @@ async function processFollowUpPages(page, wid = '') {
   let lastSig = '';
   let stuck = 0;
   let actionCount = 0;
-  const actionLimit = Math.floor(Math.random() * 6) + 5; 
+  const actionLimit = Math.floor(Math.random() * 2) + 14; //survey set 15 step
   console.log(`[${wid}] Survey action limit for this run: ` + actionLimit);
 
   for (let step = 0; step < 40; step++) {
